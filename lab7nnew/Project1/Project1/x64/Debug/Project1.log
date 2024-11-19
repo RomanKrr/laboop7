@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\kiis\c++Oop\lab7nnew\Project1\Project1\Source.cpp(196,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\kiis\c++Oop\lab7nnew\Project1\Project1\Source.cpp(196,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> D:\kiis\c++Oop\lab7nnew\Project1\x64\Debug\Project1.exe
